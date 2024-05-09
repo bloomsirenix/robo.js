@@ -1,5 +1,11 @@
 # create-robo
 
+## 0.11.13
+
+### Patch Changes
+
+- c120a28: chore: updated default plugin readme
+
 ## 0.11.12
 
 ### Patch Changes
